@@ -1,2 +1,2 @@
 :START_ID(User),:END_ID(Event),:TYPE
-/home/brian/git/ms365-sampledata/BasicEdge_ORGANIZED.csv
+/home/jovyan/Documents/GitHub/ms365-sampledata/BasicEdge_ORGANIZED.csv
